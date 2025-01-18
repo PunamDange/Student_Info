@@ -1,0 +1,88 @@
+{
+  "students": [
+    {
+      "id": "6009",
+      "first_name": "pooja",
+      "last_name": "User",
+      "roll": "101",
+      "city": "karve nager",
+      "grades": "B",
+      "gender": "male",
+      "standerd": "12th",
+      "Standerd": "12th"
+    },
+    {
+      "id": "d418",
+      "first_name": "kirti",
+      "last_name": "shinde",
+      "roll": "102",
+      "city": "pune",
+      "grades": "D",
+      "gender": "female",
+      "standerd": "10th",
+      "Standerd": "9th"
+    },
+    {
+      "id": "d45e",
+      "first_name": "pooja",
+      "last_name": "dange",
+      "roll": "103",
+      "city": "kopargaon",
+      "grades": "A",
+      "gender": "female",
+      "standerd": "10th",
+      "Standerd": "10th"
+    },
+    {
+      "id": "9769",
+      "first_name": "punam",
+      "last_name": "dange",
+      "roll": "104",
+      "city": "shirdi",
+      "grades": "B",
+      "gender": "female",
+      "standerd": "12th",
+      "Standerd": "MSC"
+    },
+    {
+      "id": "d578",
+      "first_name": "Aparna",
+      "last_name": "dange",
+      "roll": "105",
+      "city": "shirdi",
+      "grades": "C",
+      "gender": "female",
+      "standerd": "BSc "
+    },
+    {
+      "id": "11a7",
+      "first_name": "maya",
+      "last_name": "wagh",
+      "roll": "106",
+      "city": "pune",
+      "grades": "B",
+      "gender": "female",
+      "standerd": "12th"
+    },
+    {
+      "id": "afb4",
+      "first_name": "sujit",
+      "last_name": "waghe",
+      "roll": "108",
+      "city": "pune",
+      "grades": "C",
+      "gender": "male",
+      "standerd": "10th"
+    },
+    {
+      "id": "c030",
+      "first_name": "Pranjali ",
+      "last_name": "Raut",
+      "roll": "109",
+      "city": "Amravati",
+      "grades": "B",
+      "gender": "female",
+      "standerd": "MCA"
+    }
+  ]
+}
